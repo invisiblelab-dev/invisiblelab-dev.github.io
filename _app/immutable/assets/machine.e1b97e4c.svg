@@ -1,0 +1,9 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="22" cy="22" r="21" stroke="#FF9180" stroke-width="2"/>
+<circle cx="13.2059" cy="22.2059" r="3.20588" stroke="#FF9180" stroke-width="2"/>
+<circle cx="23.2059" cy="11.2059" r="3.20588" stroke="#FF9180" stroke-width="2"/>
+<circle cx="27.2059" cy="24.2059" r="3.20588" stroke="#FF9180" stroke-width="2"/>
+<path d="M27 27.5V33H40" stroke="#FF9180" stroke-width="2"/>
+<line y1="-1" x2="10" y2="-1" transform="matrix(0.866025 0.5 0.5 -0.866025 2.20703 15.0355)" stroke="#FF9180" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 2L24 8L22 8L22 2L24 2Z" fill="#FF9180"/>
+</svg>
